@@ -52,4 +52,4 @@ public class TestVerticle3 extends Verticle {
       }
     });
   }
-}
+}	
