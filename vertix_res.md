@@ -16,7 +16,8 @@ http://vertx.io/install.html
   * http://perfectworldprogramming.com/embed-vert-x-eventbus-into-your-spring-application-with-ease/
 - Vert.x: This ain't your Dad's Node.
 	* http://www.youtube.com/watch?v=8ClYUo_A3h0
-
+- The next-gen polyglot asynchronous platform
+   http://normanmaurer.me/presentations/2013-jugffm-vertx/#/
 
 ## I like it
 
